@@ -1,4 +1,4 @@
-public class KomplexTest {
+public class Main {
 
     public static void main(String[] args) {
         Komplex a = new Komplex(3.0,2.0);
